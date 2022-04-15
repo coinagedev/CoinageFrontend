@@ -10,3 +10,6 @@ After cloning the files, you will have to run ```yarn``` followed by ```yarn sta
 Data in the ```data.json``` file as well as images to ```public/img/```
 CSS styles in the ```public/css``` files.
 
+### 4. install Yarn on ubuntu 18.04 LTS 
+Please follow this link <a href="https://www.hostinger.com/tutorials/how-to-install-yarn-on-ubuntu/"></a>
+
