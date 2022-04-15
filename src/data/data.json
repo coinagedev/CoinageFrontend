@@ -1,0 +1,149 @@
+{
+    "Header": {
+
+        "title": "COINAGE",
+        "paragraph": "THE FASTEST CRYPTOCURRENCY FOR PAYMENTS IS BASED ON BLOCKCHAIN TECHNOLOGY."
+
+    },
+    "About": {
+        "paragraph": "Coinage is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Coinage is an open-source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Coinage features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume, and liquidity, Coinage is a proven medium of commerce complementary to Bitcoin.",
+        "paragraph01": "Coinage is a peer-to-peer cryptocurrency created by [shahed], a software engineer. It was launched at beginning of this year 2022. The cryptocurrency was created based on the Bitcoin protocol, but it differs in terms of the hashing algorithm used, hard cap, block transaction times, Halving, Mining reward, and a few other aspects.",
+        "KEYWORDS": [
+            "Cryptocurrency",
+            "Medium Of Exchange"
+        ],
+        "TECHNOLOGIES": [
+            "Scrypt Algorithm",
+            "Proof Of Work (Pow)"
+        ],
+        "FEATURES": [
+            "Mineable",
+            "Segregated Witness"
+        ],
+        "COINDIST": [
+            "Block Interval 1 Minutes",
+            "Halving Interval 2 Years"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-group fa-inverse",
+            "name": "Community",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-laptop fa-inverse",
+            "name": "Resources",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-heart fa-inverse",
+            "name": "Open Source Software",
+            "text": "Coinage is an open source software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."
+        },
+        {
+            "icon": "fa fa-link fa-inverse",
+            "name": "Blockchain",
+            "text": "The Coinage blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items."
+        },
+        {
+            "icon": "fa fa-lock fa-inverse",
+            "name": "Wallet Encryption",
+            "text": "Wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending coinage. This provides protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments."
+        },
+        {
+            "icon": "fa fa-money fa-inverse",
+            "name": "Mining Reward",
+            "text": "Miners are currently awarded with 100 new coinages per block, an amount which gets halved roughly every 2 years (every 1051200 blocks). The coinage network is therefore scheduled to produce 850 million coinages."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "Coinage": "You can contact Coinage project development team by email.",
+        "phone": "+1 (347) 871-1884",
+        "email": "info@coinage.org",
+        "facebook": "",
+        "twitter": "",
+        "youtube": "",
+        "reddit": "",
+        "github": "https://github.com/coinagedev/Blockchain-Cryptocurrency",
+        "slack": ""
+    },
+    "Features": [
+        {
+            "icon": "fa fa-file-o",
+            "title": "White Paper",
+            "text": "",
+            "link": "https://bitcoin.org/bitcoin.pdf"
+        },
+        {
+            "icon": "fa fa-file-code-o",
+            "title": "Block-Chain",
+            "text": "",
+            "link": "https://github.com/coinagedev/Blockchain-Cryptocurrency"
+        },
+        {
+            "icon": "fa fa-github-alt",
+            "title": "Source Code",
+            "text": "",
+            "link": "http://google.com"
+        },
+        {
+            "icon": "fa fa-download",
+            "title": "Coinage Wallet",
+            "text": "",
+            "link": "http://google.com"
+        }
+    ]
+}
