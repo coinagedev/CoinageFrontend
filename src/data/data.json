@@ -28,12 +28,32 @@
     "Services": [{
             "icon": "fa fa-group fa-inverse",
             "name": "Community",
-            "text": ""
+            "text": "Find support across a growing number of Coinage communities:",
+            "title": "Coinage Forum",
+            "title01": "Reddit Coinage",
+            "title02": "Facebook",
+            "title03": "Twitter",
+            "title04": "",
+            "link": "https://www.google.com/",
+            "link01": "",
+            "link02": "",
+            "link03": "",
+            "link04": ""
         },
         {
             "icon": "fa fa-laptop fa-inverse",
             "name": "Resources",
-            "text": ""
+            "text": "Up-to-date network statistics can be found at Coinage Block Explorer Charts. Source code for Blockchain and Cryptocurrency | Full-Stack Edition project are available on GitHub.",
+            "title": "Coinage Explorer",
+            "title01": "GitHub",
+            "title02": "",
+            "title03": "",
+            "title04": "",
+            "link": "https://www.google.com/",
+            "link01": "",
+            "link02": "",
+            "link03": "",
+            "link04": ""
         },
         {
             "icon": "fa fa-heart fa-inverse",
@@ -116,16 +136,20 @@
         "facebook": "",
         "twitter": "",
         "youtube": "",
+        "slack": "",
         "reddit": "",
-        "github": "https://drive.google.com/uc?export=download&id=16wahEPwWGtHNt-UO0Dkur3FTgKzqgbd9",
-        "slack": ""
+        "telegram": "",
+        "discord": "",
+        "forum": "https://www.google.com/",
+        "github": "https://drive.google.com/uc?export=download&id=1BUoOJGAihFhr6S5RluT8BgQaDfM7Zg-v"
+
     },
     "Features": [
         {
             "icon": "fa fa-file-o",
             "title": "White Paper",
             "text": "",
-            "link": "https://drive.google.com/uc?export=download&id=1ZZJ0rYtndgANTqIJYhNCHmVPJ2wTWq1F"
+            "link": "https://drive.google.com/uc?export=download&id=1BUoOJGAihFhr6S5RluT8BgQaDfM7Zg-v"
         },
         {
             "icon": "fa fa-file-code-o",

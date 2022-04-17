@@ -12,15 +12,20 @@ export const Services = (props) => {
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-4'>
-                  {' '}
-                  <i className={d.icon}></i>
-                  <div className='service-desc'>
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
-                  </div>
+              <div key={`${d.name}-${i}`} className='col-md-4'>
+                {' '}
+                <i className={d.icon}></i>
+                <div className='service-desc'>
+                  <h3>{d.name}</h3>
+                  <p>{d.text}</p>
+                  <p><a style={{color: "white"}} href={d.link}>{d.title}</a></p>
+                  <p><a style={{color: "white"}} href={d.link01}>{d.title01}</a></p>
+                  <p><a style={{color: "white"}} href={d.link02}>{d.title02}</a></p>
+                  <p><a style={{color: "white"}} href={d.link03}>{d.title03}</a></p>
+                  <p><a style={{color: "white"}} href={d.link04}>{d.title0}</a></p>
                 </div>
-              ))
+              </div>
+            ))
             : 'loading'}
         </div>
       </div>

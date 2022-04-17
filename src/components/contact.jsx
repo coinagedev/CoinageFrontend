@@ -2,9 +2,10 @@ import { useState } from "react";
 import emailjs from "emailjs-com";
 
 const initialState = {
-  name: "Coinage",
+  name: "",
   email: "",
-  message: "Thank you for your Email! We will be in touch with you soon.",
+  message: "",
+  // message: "This is to confirm that we have received your message.",
 };
 
 export const Contact = (props) => {
@@ -21,7 +22,7 @@ export const Contact = (props) => {
     e.preventDefault();
 
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_USER_ID")
+      .sendForm("service_li8g00v", "template_rvny96n", e.target, "joJmPNVfi9rfisfgX")
       .then(
         (result) => {
           console.log(result.text);
@@ -149,6 +150,21 @@ export const Contact = (props) => {
                   <li>
                     <a href={props.data ? props.data.reddit : "/"}>
                       <i className="fa fa-reddit"></i>
+                    </a>
+                  </li>
+                  {/* <li>
+                    <a href={props.data ? props.data.telegram : "/"}>
+                      <i className="fa fa-telegram"></i>
+                    </a>
+                  </li> */}
+                  {/* <li>
+                    <a href={props.data ? props.data.discord : "/"}>
+                      <i className="fab fa-discord"></i>
+                    </a>
+                  </li> */}
+                  <li>
+                    <a href={props.data ? props.data.forum : "/"}>
+                      <i className="fa fa-group"></i>
                     </a>
                   </li>
                   <li>
