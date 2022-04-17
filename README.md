@@ -11,5 +11,9 @@ Data in the ```data.json``` file as well as images to ```public/img/```
 CSS styles in the ```public/css``` files.
 
 ### 4. install Yarn on ubuntu 18.04 LTS 
-Please follow this link <a href="https://www.hostinger.com/tutorials/how-to-install-yarn-on-ubuntu/">Ubuntu 18.04 LTS</a>
+Please follow this link <a href="https://www.hostinger.com/tutorials/how-to-install-yarn-on-ubuntu/">Yarn Install</a>
+
+### 5. Install nodejs on ubuntu 18.04 LTS 
+Please follow this link <a href="https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04">Node js </a>
+
 

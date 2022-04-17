@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "COINAGE",
-        "paragraph": "THE FASTEST CRYPTOCURRENCY FOR PAYMENTS IS BASED ON BLOCKCHAIN TECHNOLOGY."
+        "paragraph": "THE FASTEST CRYPTOCURRENCY FOR GLOBAL PAYMENTS IS BASED ON BLOCKCHAIN TECHNOLOGY."
 
     },
     "About": {
@@ -117,7 +117,7 @@
         "twitter": "",
         "youtube": "",
         "reddit": "",
-        "github": "https://github.com/coinagedev/Blockchain-Cryptocurrency",
+        "github": "https://drive.google.com/uc?export=download&id=16wahEPwWGtHNt-UO0Dkur3FTgKzqgbd9",
         "slack": ""
     },
     "Features": [
@@ -125,13 +125,13 @@
             "icon": "fa fa-file-o",
             "title": "White Paper",
             "text": "",
-            "link": "https://bitcoin.org/bitcoin.pdf"
+            "link": "https://drive.google.com/uc?export=download&id=1ZZJ0rYtndgANTqIJYhNCHmVPJ2wTWq1F"
         },
         {
             "icon": "fa fa-file-code-o",
             "title": "Block-Chain",
             "text": "",
-            "link": "https://github.com/coinagedev/Blockchain-Cryptocurrency"
+            "link": "https://drive.google.com/uc?export=download&id=16wahEPwWGtHNt-UO0Dkur3FTgKzqgbd9"
         },
         {
             "icon": "fa fa-github-alt",
