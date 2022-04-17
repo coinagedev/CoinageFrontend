@@ -63,7 +63,7 @@
         {
             "icon": "fa fa-link fa-inverse",
             "name": "Blockchain",
-            "text": "The Coinage blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items."
+            "text": "The Coinage blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. As a result, Any global payment transaction confirmation can achieve within 1 minute. "
         },
         {
             "icon": "fa fa-lock fa-inverse",
