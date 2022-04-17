@@ -22,7 +22,7 @@ export const Services = (props) => {
                   <p><a style={{color: "white"}} href={d.link01}>{d.title01}</a></p>
                   <p><a style={{color: "white"}} href={d.link02}>{d.title02}</a></p>
                   <p><a style={{color: "white"}} href={d.link03}>{d.title03}</a></p>
-                  <p><a style={{color: "white"}} href={d.link04}>{d.title0}</a></p>
+                  <p><a style={{color: "white"}} href={d.link04}>{d.title04}</a></p>
                 </div>
               </div>
             ))

@@ -33,7 +33,7 @@
             "title01": "Reddit Coinage",
             "title02": "Facebook",
             "title03": "Twitter",
-            "title04": "",
+            "title04": "Slack",
             "link": "https://www.google.com/",
             "link01": "",
             "link02": "",
@@ -43,7 +43,7 @@
         {
             "icon": "fa fa-laptop fa-inverse",
             "name": "Resources",
-            "text": "Up-to-date network statistics can be found at Coinage Block Explorer Charts. Source code for Blockchain and Cryptocurrency | Full-Stack Edition project are available on GitHub.",
+            "text": "Up-to-date network statistics can be found at Coinage Block Explorer Charts. Coinage offers free technical courses to learn and build  Blockchain and Cryptocurrency in Full-Stack Edition projects, which can be found here on GitHub.",
             "title": "Coinage Explorer",
             "title01": "GitHub",
             "title02": "",
