@@ -1,0 +1,105 @@
+   ********Setting Up Coinage Frontend Environment 
+
+  // copy modified and peast under remote root dir 
+
+  Commend for Server basic required lib 
+  
+  **sudo apt-get update 
+  **sudo apt-get install build-essential
+  **sudo apt-get install autoconf libtool pkg-config libboost-all-dev libssl-dev libprotobuf-dev protobuf-compiler libevent-dev libqt4-dev libcanberra-gtk-module libdb++-dev
+  
+	Execute the curl bash
+	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+	
+	Refresh the terminal profile
+	source ~/.profile
+	
+	Check NVM Version
+	nvm --version
+	
+	Install NodeJs both version 
+	nvm install 12.14.0
+	
+	// Project clone 
+	git clone https://github.com/coinagedev/CoinageFrontend.git coinage
+	
+	****yarn install  Ubuntu 18.04 LTS
+	
+	sudo apt remove cmdtest
+    sudo apt remove yarn
+    curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+    echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+    sudo apt-get update
+    sudo apt-get install yarn -y
+	yarn install
+	
+	
+	
+	// RunWeb in background 
+	cd ~
+	got to coinage dir
+	cd coinage
+	
+	nvm use 12.14.0
+	
+	npm install -g nohup
+	
+	nohup yarn start &
+	
+	view nohup.out
+	press shift + : then type qa! press enter 
+	
+	then type on terminal exit 
+	hit enter 
+	
+	
+	************Setting Up Coinage Forum
+	
+	 Commend for Server basic required lib 
+  
+  **sudo apt-get update 
+  **sudo apt-get install build-essential
+  **sudo apt-get install autoconf libtool pkg-config libboost-all-dev libssl-dev libprotobuf-dev protobuf-compiler libevent-dev libqt4-dev libcanberra-gtk-module libdb++-dev
+  
+  Execute the curl bash
+	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+	
+	Refresh the terminal profile
+	source ~/.profile
+	
+	Check NVM Version
+	nvm --version
+	
+	Install NodeJs both version 
+	nvm install 12.14.0
+	
+
+	// Project clone 
+	git clone https://github.com/coinagedev/CoinageForum.git coinageForum
+	
+	nvm use 12.14.0
+	npm install -g nohup
+	
+	
+	***navigate to api-server dir and run npm install
+	
+	nohup node server.js &
+	
+	view nohup.out
+	press shift + : then type qa! press enter 
+	
+	then type on terminal exit 
+	hit enter
+	
+	cd ~
+	cd coinage
+	npm install
+	nohup npm start &
+	view nohup.out
+	press shift + : then type qa! press enter 
+	
+	then type on terminal exit 
+	hit enter
+	
+
+
