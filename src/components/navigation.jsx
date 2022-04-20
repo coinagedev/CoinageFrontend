@@ -15,9 +15,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-            COINAGE
-          </a>{' '}
+          <a style={{ color: "#6372ff" }} className='navbar-brand page-scroll' href='#page-top'>COINAGE</a>{' '}
         </div>
 
         <div
@@ -26,27 +24,27 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#about' className='page-scroll'>
+              <a style={{fontWeight: "bold"}} href='#about' className='page-scroll'>
                 About
               </a>
             </li>
             <li>
-              <a href='#services' className='page-scroll'>
+              <a style={{fontWeight: "bold"}} href='#services' className='page-scroll'>
                 Prospect
               </a>
             </li>
             <li>
-              <a href='#features' className='page-scroll'>
+              <a style={{fontWeight: "bold"}} href='#features' className='page-scroll'>
                 Resource
               </a>
             </li>
             <li>
-              <a href='#portfolio' className='page-scroll'>
+              <a style={{fontWeight: "bold"}} href='#portfolio' className='page-scroll'>
                 Explorer
               </a>
             </li>
             <li>
-              <a href='#testimonials' className='page-scroll'>
+              <a style={{fontWeight: "bold"}} href='#testimonials' className='page-scroll'>
                 Mining Pool
               </a>
             </li>
@@ -56,7 +54,7 @@ export const Navigation = (props) => {
               </a>
             </li> */}
             <li>
-              <a href='#contact' className='page-scroll'>
+              <a style={{fontWeight: "bold"}} href='#contact' className='page-scroll'>
                 Contact
               </a>
             </li>
