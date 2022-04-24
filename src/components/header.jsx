@@ -1,13 +1,13 @@
 import ParticlesBg from "particles-bg";
-import coinage from "../../src/coinage.jpg"
+import chome from "../../src/chome.jpg"
 
 export const Header = (props) => {
-  // var coinage = require('../../src/coinage.jpg')
+  
   return (
     <header id='header'>
       <div className='intro'>
-        <ParticlesBg type="square" bg={{ zIndex: 0, position: "absolute", top: 0 }} />
-        {/* <img src={coinage} width={1200} height={600} alt='image not found' /> */}
+        <ParticlesBg type="cobweb" bg={{ zIndex: 0, position: "absolute", top: 0 }} />
+        {/* <img src={chome} width={100} height={100} alt='image not found' /> */}
         <div className='overlay'>
           <div className='container'>
             <div className='row'>
