@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "COINAGE",
-        "paragraph": "THE FASTEST CRYPTOCURRENCY FOR GLOBAL PAYMENTS USING SCRYPT ALGORITHM ON BLOCKCHAIN TECHNOLOGY."
+        "paragraph": "THE FASTEST CRYPTOCURRENCY FOR GLOBAL ELECTRONIC PAYMENTS USES SCRYPT ALGORITHM ON BLOCKCHAIN AND SENDS CRYPTO IN A MINUTE"
     },
     "About": {
         "paragraph": "Coinage is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Coinage is an open-source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Coinage features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume, and liquidity, Coinage is a proven medium of commerce complementary to Bitcoin.",
@@ -33,23 +33,23 @@
             "title02": "Facebook",
             "title03": "Twitter",
             "title04": "",
-            "link": "https://www.google.com/",
-            "link01": "",
-            "link02": "",
-            "link03": "",
+            "link": "https://drive.google.com/uc?export=download&id=1z4jXRSB6o2xbgsHi8qRTx-CxlOXgCjW4",
+            "link01": "https://www.reddit.com/user/Coinageteam2022/",
+            "link02": "https://www.facebook.com/profile.php?id=100081050291095",
+            "link03": "https://twitter.com/infocoinagecry1",
             "link04": ""
         },
         {
             "icon": "fa fa-laptop fa-inverse",
             "name": "Resources",
             "text": "Up-to-date network statistics can be found at Coinage Block Explorer Charts. Coinage offers free technical courses to learn and build  Blockchain and Cryptocurrency in Full-Stack Edition projects, which can be found here on GitHub.",
-            "title": "Coinage Explorer",
+            "title": "Discord",
             "title01": "GitHub",
             "title02": "",
             "title03": "",
             "title04": "",
-            "link": "https://www.google.com/",
-            "link01": "",
+            "link": "https://discord.com/channels/972479998436970496/972479998927728661",
+            "link01": "https://drive.google.com/uc?export=download&id=16wahEPwWGtHNt-UO0Dkur3FTgKzqgbd9",
             "link02": "",
             "link03": "",
             "link04": ""
@@ -72,10 +72,8 @@
         {
             "icon": "fa fa-money fa-inverse",
             "name": "Mining Reward",
-            "text": "Miners are currently awarded with 100 new coinages per block, an amount which gets halved roughly every 2 years (every 1051200 blocks). The coinage network is therefore scheduled to produce 850 million coinages."
+            "text": "Miners are currently awarded with 50 new coinages per block, an amount which gets halved roughly every 2 years (every 1051200 blocks). The coinage network is therefore scheduled to produce 100 million coinages Cryptocurrency."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -131,17 +129,16 @@
     "Contact": {
         "Coinage": "You can contact Coinage project development team by email.",
         "phone": "",
-        "email": "info@coinage.org",
-        "facebook": "",
-        "twitter": "",
+        "email": "info@coinagecryptocurrency.dev",
+        "facebook": "https://www.facebook.com/profile.php?id=100081050291095",
+        "twitter": "https://twitter.com/infocoinagecry1",
         "youtube": "",
-        "slack": "",
-        "reddit": "",
+        "slack": "https://coinagecorp.slack.com/archives/C03E79P1Q9K/p1651783355557549",
+        "reddit": "https://www.reddit.com/user/coinageteam2022/",
         "telegram": "",
-        "discord": "",
-        "forum": "https://www.google.com/",
-        "github": "https://drive.google.com/uc?export=download&id=1BUoOJGAihFhr6S5RluT8BgQaDfM7Zg-v"
-
+        "discord": "https://discord.com/channels/972479998436970496/972479998927728661",
+        "forum": "https://drive.google.com/uc?export=download&id=1z4jXRSB6o2xbgsHi8qRTx-CxlOXgCjW4",
+        "github": "https://drive.google.com/uc?export=download&id=16wahEPwWGtHNt-UO0Dkur3FTgKzqgbd9"
     },
     "Features": [
         {

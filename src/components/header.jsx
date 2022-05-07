@@ -1,5 +1,4 @@
 import ParticlesBg from "particles-bg";
-import chome from "../../src/chome.jpg"
 
 export const Header = (props) => {
   
@@ -15,7 +14,7 @@ export const Header = (props) => {
                 <h1><a style={{ color: "#6372ff", fontWeight: "bold" }} >{props.data ? props.data.title : 'Loading'}</a>
                   <span></span>
                 </h1>
-                <p><a style={{ color: "#6372ff", fontWeight: "bold" }}>{props.data ? props.data.paragraph : 'Loading'}</a></p>
+                <p><a style={{ color: "white", fontWeight: "bold" }}>{props.data ? props.data.paragraph : 'Loading'}</a></p>
                 <a
                   href='#services'
                   className='btn btn-custom btn-lg page-scroll'>Learn More</a>{' '}
